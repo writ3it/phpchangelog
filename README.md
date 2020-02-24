@@ -1,10 +1,12 @@
 # php-changelog
 Easy to use changelog composed from pull requests.
 
+- framework agnostic
+
 
 ## Getting started
 
 
 ```
-$ composer require writ3it/php-changelog:dev-master
+$ composer require writ3it/phpchangelog:dev-master
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "wri3it/php-changelog",
+  "name": "wri3it/phpchangelog",
   "description": "Easy to use changelog composed from pull requests.",
   "type": "library",
   "license": "MIT",
@@ -8,6 +8,9 @@
       "name": "writ3it",
       "email": "contact@wri3it.tech"
     }
+  ],
+  "bin": [
+    "phpchangelog"
   ],
   "minimum-stability": "stable",
   "require": {}
