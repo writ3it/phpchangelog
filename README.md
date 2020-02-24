@@ -1,4 +1,4 @@
-# php-changelog
+# phpchangelog
 Easy to use changelog composed from pull requests.
 
 - framework agnostic
