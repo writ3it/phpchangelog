@@ -1,0 +1,14 @@
+{
+  "name": "wri3it/php-changelog",
+  "description": "Easy to use changelog composed from pull requests.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "writ3it",
+      "email": "contact@wri3it.tech"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
